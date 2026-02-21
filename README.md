@@ -1,9 +1,17 @@
-# Churn-Modelling-Dataset
-Predicting which set of the customers are gong to churn out from the organization by looking into some of the important attributes and applying Machine Learning and Deep Learning on it.
+# Customer Churn Prediction (CCP)
+**Developed by: Prince Kumar Varshney**
+**College: JSS Academy of Technical Education, Noida**
+**Contact: +91 6395881633 | varshneyprince880@gmail.com**
 
+## 📌 Project Overview
+This project focuses on predicting customer churn for a telecom company using Machine Learning. By analyzing customer behavior and demographics, the model identifies who is likely to leave the service, helping the business take proactive retention measures.
 
-Customer churn refers to when a customer (player, subscriber, user, etc.) ceases his or her relationship with a company. Online businesses typically treat a customer as churned once a particular amount of time has elapsed since the customer's last interaction with the site or service.
+## 🛠️ Tech Stack
+* **Language:** Python
+* **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
+* **Algorithm:** Classification (ANN / Random Forest)
 
-A Predictive Churn Model is a tool that defines the steps and stages of customer churn, or a customer leaving your service or product. ... But with an evolving churn model, you can fight for retention by acting on the metrics as they happen
-
-Customer churn occurs when customers or subscribers stop doing business with a company or service, also known as customer attrition. It is also referred as loss of clients or customers. ... Similar concept with predicting employee turnover, we are going to predict customer churn using telecom dataset.
+## 📊 Key Features
+* **Data Cleaning:** Handling missing values and encoding categorical data.
+* **EDA:** Visualizing correlations between features like tenure, balance, and churn.
+* **Model Building:** Training a robust classifier to achieve high accuracy.
